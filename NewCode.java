@@ -11,6 +11,6 @@ public class NewCode
         System.out.println("What is the biggest word you can think of?");
         String word = input.nextLine();
         int num = word.length();
-        System.out.println("that word has" +num+ "letters in it good job.")
+        System.out.println("that word has" +num+ "letters in it, good job buddy ol pal.")
     }
 }
